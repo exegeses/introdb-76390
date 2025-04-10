@@ -29,7 +29,7 @@
 > la estructura de una tabla son las columnas,
 > sus tipos de datos y características adicionales
  
-## tipos de datos
+## Tipos de datos
 
-> tenemos tres principales tipos de datos que son
+> Tenemos (en una clasificación MUY AMPLIA) tres principales tipos de datos que son
 > numéricos, alfanuméricos y fechas.
